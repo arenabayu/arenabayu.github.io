@@ -1,0 +1,76 @@
+.responsivebreak{
+	margin-top: 10em;
+}
+
+.nomargin{
+	margin-left: 0.3%;
+}
+
+.marginleft{
+	margin-left: 3%;
+}
+
+.marginleft2{
+	margin-left: 4%;
+}
+
+.marginleft3{
+	margin-left: 2%;
+}
+
+
+.marginright{
+	margin-right: 2%;
+}
+
+.margintop{
+	margin-top: 0%;
+}
+
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.borderleft{
+	border-left-style: solid;
+   	border-left-width: 6px;
+   	border-left-color: #e74c3c;
+}
+
+.font-name{
+	font-family: 'Inconsolata', monospace;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    text-decoration: underline;
+    color: #e74c3c;
+}
+
+/* mouse over link */
+a:hover {
+    color: #e74c3c;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+
+@media (max-width: 740px) {
+	h3 {font-size: 14;}
+	p {font-size: 18;}
+
+}
+
+
